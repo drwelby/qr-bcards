@@ -1,0 +1,13 @@
+Some business cards generated in Processing that have a QR code artistically rendered.
+
+Since the CV algorithms that decode QR codes will threshold the image, there only needs tp be enough contrast between the dark and light "pixels". 
+
+There is nothing elegant or clever in this from a computing standpoint, and there is a lot of manual fine-tuning for positioning. But it's a fun effect.
+
+You can see a sheet (with the wrong font) here:
+
+http://www.flickr.com/photos/drwelby/4445817042/in/set-72157624583242419/
+
+And the finished cards here:
+
+http://www.flickr.com/photos/drwelby/4532397397/in/set-72157624583242419/
