@@ -1,6 +1,6 @@
 Some business cards generated in Processing that have a QR code artistically rendered.
 
-Since the CV algorithms that decode QR codes will threshold the image, there only needs tp be enough contrast between the dark and light "pixels". 
+Since the CV algorithms that decode QR codes will threshold the image, there only needs to be enough contrast between the dark and light "pixels". 
 
 There is nothing elegant or clever in this from a computing standpoint, and there is a lot of manual fine-tuning for positioning. But it's a fun effect.
 
